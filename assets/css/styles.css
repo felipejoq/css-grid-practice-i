@@ -124,3 +124,7 @@ footer {
     padding: 20px;
     height: 60px;
 }
+
+footer a {
+    color: #ECE2D0;
+}
