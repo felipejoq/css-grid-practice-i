@@ -4,5 +4,5 @@
   - Usando esta guía crear el desarrollo de una "maqueta" aplicando grid, grid-templates, grid-areas, etc.
 
 ### Vista previa resultado:
-[Demo Aquí]()
-![Vista previa](https://github.com/felipejoq/css-grid-practice-i/blob/main/assets/img/preview.jpg?raw=true)
+[Demo Aquí](https://felipejoq.github.io/css-grid-practice-i/)
+![Vista previa](https://github.com/felipejoq/css-grid-practice-i/blob/main/assets/imgs/preview.jpg?raw=true)
